@@ -69,10 +69,7 @@ A modern web browser is required to run this application.
 5. **Persistent Storage**:  
    All data is saved in localStorage to ensure expenses remain visible even after refreshing or closing the browser.
 
-## Live Preview
 
-*(Add a link to your hosted project if available, e.g., GitHub Pages or Netlify.)*  
-[Live Demo](live-demo-url)
 
 ## Contributing
 
